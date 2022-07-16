@@ -1,0 +1,4 @@
+Game of Life
+    1. If a live cell has fewer than 2 neighbors, it dies (underpopulation).
+    2. If a live cell has more than 3 neighbors, it dies (overpopulation).
+    3. If a dead cell has exactly 3 neighbors, it becomes alive (reproduction).
