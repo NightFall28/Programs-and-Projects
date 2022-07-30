@@ -1,0 +1,38 @@
+Output:
+
+Location: Tokyo
+  Flights from Tokyo:
+                Tokyo to New York, 6743 miles
+                Tokyo to London, 5941 miles
+                Tokyo to Sydney, 4863 miles
+  Flights to Tokyo:
+                New York to Tokyo, 6743 miles
+                London to Tokyo, 5941 miles
+                Sydney to Tokyo, 4863 miles
+Location: London
+  Flights from London:
+                London to Tokyo, 5941 miles
+                London to New York, 3425 miles
+                London to Sydney, 18562 miles
+  Flights to London:
+                Tokyo to London, 5941 miles
+                New York to London, 3425 miles
+                Sydney to London, 18562 miles
+Location: New York
+  Flights from New York:
+                New York to Tokyo, 6743 miles
+                New York to London, 3425 miles
+                New York to Sydney, 9868 miles
+  Flights to New York:
+                Tokyo to New York, 6743 miles
+                London to New York, 3425 miles
+                Sydney to New York, 9868 miles
+Location: Sydney
+  Flights from Sydney:
+                Sydney to Tokyo, 4863 miles
+                Sydney to New York, 9868 miles
+                Sydney to London, 18562 miles
+  Flights to Sydney:
+                Tokyo to Sydney, 4863 miles
+                New York to Sydney, 9868 miles
+                London to Sydney, 18562 miles
