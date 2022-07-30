@@ -1,0 +1,28 @@
+Sample Output:
+
+
+Enter insert value: 1 2 3 4 5 10 9 8 7 6
+
+Red-Black tree with 10 nodes has height 4
+                  _____[4 black]_____
+                 /                   \
+         [2 black]                   [9 black]
+        /         \                 /         \
+[1 black]         [3 black]   [7 red]         [10 black]
+                             /       \
+                     [5 black]       [8 black]
+                              \
+                              [6 red]
+Enter remove values: 3 7 9 12
+
+Remove node 3: Red-Black tree with 9 nodes has height 3
+Remove node 7: Red-Black tree with 8 nodes has height 3
+Remove node 9: Red-Black tree with 7 nodes has height 3
+Remove node 12: Key not found. Tree is not changed.
+                       [6 black]
+                      /         \
+                [4 red]         [8 black]
+               /       \                 \
+       [2 black]       [5 black]         [10 red]
+      /
+[1 red]
