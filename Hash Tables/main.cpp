@@ -1,6 +1,4 @@
 #include "hash.h"
-using namespace std;
-
 
 int main() {
 	HashTable hash = HashTable(10);
